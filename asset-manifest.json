@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/electronic_shop_tailwind/static/css/main.b4bde296.css",
+    "main.js": "/electronic_shop_tailwind/static/js/main.e57cc9a9.js",
+    "static/js/787.ffe65385.chunk.js": "/electronic_shop_tailwind/static/js/787.ffe65385.chunk.js",
+    "static/media/Robot.png": "/electronic_shop_tailwind/static/media/Robot.2b7384e7dce125fdc4c7.png",
+    "static/media/intro.jpg": "/electronic_shop_tailwind/static/media/intro.7bcf9b0d1499f399beb2.jpg",
+    "index.html": "/electronic_shop_tailwind/index.html",
+    "main.b4bde296.css.map": "/electronic_shop_tailwind/static/css/main.b4bde296.css.map",
+    "main.e57cc9a9.js.map": "/electronic_shop_tailwind/static/js/main.e57cc9a9.js.map",
+    "787.ffe65385.chunk.js.map": "/electronic_shop_tailwind/static/js/787.ffe65385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4bde296.css",
+    "static/js/main.e57cc9a9.js"
+  ]
+}
