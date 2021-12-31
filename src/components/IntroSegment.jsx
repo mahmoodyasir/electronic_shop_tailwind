@@ -6,18 +6,18 @@ import LastSection from "./LastSection";
 const IntroSegment = () => {
 
     const products = [
-        {id: 1, description: "Mens T-Shirt", image: 'https://m.media-amazon.com/images/I/81Ivn5DIxhL._AC_SL1500_.jpg'},
-        {id: 2, description: "Slim Khaki Trouser", image: 'https://m.media-amazon.com/images/I/71tAufadHwS._AC_SL1500_.jpg'},
-        {id: 3, description: "Nike Shoes", image: 'https://m.media-amazon.com/images/I/71Nly9vPapL._AC_SL1500_.jpg'},
-        {id: 4, description: "Wrist Watch", image: 'https://m.media-amazon.com/images/I/71hhgeQCrOL._AC_SL1500_.jpg'},
+        {id: 1, description: "Laptop 1", image: 'https://m.media-amazon.com/images/I/81Ivn5DIxhL._AC_SL1500_.jpg'},
+        {id: 2, description: "Laptop 2", image: 'https://m.media-amazon.com/images/I/71tAufadHwS._AC_SL1500_.jpg'},
+        {id: 3, description: "Laptop 3", image: 'https://m.media-amazon.com/images/I/71Nly9vPapL._AC_SL1500_.jpg'},
+        {id: 4, description: "Laptop 4", image: 'https://m.media-amazon.com/images/I/71hhgeQCrOL._AC_SL1500_.jpg'},
 
     ];
 
     const f_products = [
-        {id: 1, description: "Mens T-Shirt", image: 'https://m.media-amazon.com/images/I/71kr3WAj1FL._AC_SL1500_.jpg'},
-        {id: 2, description: "Slim Khaki Trouser", image: 'https://m.media-amazon.com/images/I/71z6gsI87bL._AC_SL1500_.jpg'},
-        {id: 3, description: "Nike Shoes", image: 'https://m.media-amazon.com/images/I/71aARXewm6L._AC_SL1500_.jpg'},
-        {id: 4, description: "Wrist Watch", image: 'https://m.media-amazon.com/images/I/717A+nwjBSL._AC_SL1000_.jpg'},
+        {id: 1, description: "Keyboard 1", image: 'https://m.media-amazon.com/images/I/71kr3WAj1FL._AC_SL1500_.jpg'},
+        {id: 2, description: "Keyboard 2", image: 'https://m.media-amazon.com/images/I/71z6gsI87bL._AC_SL1500_.jpg'},
+        {id: 3, description: "Keyboard 3", image: 'https://m.media-amazon.com/images/I/71aARXewm6L._AC_SL1500_.jpg'},
+        {id: 4, description: "Keyboard 4", image: 'https://m.media-amazon.com/images/I/717A+nwjBSL._AC_SL1000_.jpg'},
 
     ];
 
